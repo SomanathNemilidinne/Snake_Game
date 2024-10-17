@@ -67,7 +67,7 @@ snake-game/
 ├── snake.py
 ├── food.py
 ├── scoreboard.py
-└── data.txt  # This file will be created when you run your game, no need to create it yourself.
+└── data.txt  # Initial high score is equal to 0, Also make sure you change the relative path to this file in scoreboard.py.
 ```
 
 This structure ensures the game runs smoothly without any issues finding the necessary modules and data.
